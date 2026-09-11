@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+entrada/*.xlsx
+entrada/*.xls
+saida/*.xlsx
+saida/*.xls
+.pytest_cache/
