@@ -1,0 +1,115 @@
+{
+  "TIPO": [
+    "TIPO",
+    "TIPO USUARIO",
+    "TIPO DE USUARIO"
+  ],
+  "NOME": [
+    "NOME",
+    "NOME COMPLETO",
+    "NOME SEGURADO",
+    "NOME DO SEGURADO",
+    "NOME BENEFICIARIO",
+    "NOME DO BENEFICIARIO"
+  ],
+  "CPF": [
+    "CPF",
+    "CPF SEGURADO",
+    "CPF DO SEGURADO",
+    "DOCUMENTO",
+    "CPF/CNPJ"
+  ],
+  "SEXO": [
+    "SEXO",
+    "GENERO",
+    "GÊNERO"
+  ],
+  "DATA NASCIMENTO": [
+    "DATA NASCIMENTO",
+    "DATA DE NASCIMENTO",
+    "DT NASCIMENTO",
+    "DT. NASCIMENTO",
+    "NASCIMENTO"
+  ],
+  "DATA ADMISSAO": [
+    "DATA ADMISSAO",
+    "DATA DE ADMISSAO",
+    "DT ADMISSAO",
+    "DT. ADMISSAO"
+  ],
+  "PARENTESCO": [
+    "PARENTESCO",
+    "GRAU PARENTESCO",
+    "GRAU DE PARENTESCO"
+  ],
+  "MATRICULA EMPRESA": [
+    "MATRICULA",
+    "MATRÍCULA",
+    "MATRICULA EMPRESA",
+    "MATRÍCULA EMPRESA",
+    "COD FUNCIONARIO",
+    "CODIGO FUNCIONARIO"
+  ],
+  "CNPJ CLIENTE": [
+    "CNPJ",
+    "CNPJ CLIENTE",
+    "CNPJ DA EMPRESA"
+  ],
+  "EMAIL": [
+    "EMAIL",
+    "E-MAIL",
+    "E MAIL"
+  ],
+  "CEP": [
+    "CEP"
+  ],
+  "ENDERECO": [
+    "ENDERECO",
+    "ENDEREÇO",
+    "LOGRADOURO"
+  ],
+  "NUMERO": [
+    "NUMERO",
+    "NÚMERO"
+  ],
+  "COMPLEMENTO": [
+    "COMPLEMENTO"
+  ],
+  "BAIRRO": [
+    "BAIRRO"
+  ],
+  "CIDADE": [
+    "CIDADE",
+    "MUNICIPIO",
+    "MUNICÍPIO"
+  ],
+  "ESTADO": [
+    "ESTADO",
+    "UF"
+  ],
+  "RG": [
+    "RG",
+    "RG SEGURADO",
+    "DOCUMENTO RG"
+  ],
+  "TELEFONE": [
+    "TELEFONE",
+    "FONE"
+  ],
+  "CELULAR": [
+    "CELULAR",
+    "TELEFONE CELULAR"
+  ],
+  "PLANO": [
+    "PLANO",
+    "PRODUTO",
+    "PLANO DE SAUDE",
+    "PLANO DE SAÚDE"
+  ],
+  "CARTEIRINHA": [
+    "CARTEIRINHA",
+    "CARTEIRA",
+    "NUMERO CARTEIRINHA",
+    "NÚMERO CARTEIRINHA"
+  ]
+}
